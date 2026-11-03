@@ -14,10 +14,10 @@ nicht nur mit den Ergebnissen.
 ## Projekte
 
 - [homelab](https://github.com/tobias-peine/homelab) – VPS mit Docker, NPM, Ghost,
-  n8n, Paperless, SearXNG, Open WebUI/Ollama; 43 Commits, zwei dokumentierte
+  n8n, Paperless, SearXNG, Open WebUI/Ollama; 47 Commits, zwei dokumentierte
   Restore-Tests (43 s/47 s), HSTS, SSH nur über Tailscale.
 - [kisium-tools](https://github.com/tobias-peine/kisium-tools) – Python-Werkzeuge
-  für Ghost-API, Cover-Generator und SMTP-Test; 6 Commits.
+  für Ghost-API, Cover-Generator und SMTP-Test; 7 Commits.
 
 ## Woran ich gerade bin
 
