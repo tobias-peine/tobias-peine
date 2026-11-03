@@ -11,10 +11,18 @@ nicht nur mit den Ergebnissen.
 `Linux (Debian)` · `Docker` · `Nginx / Reverse Proxy` · `DNS, Ports, TLS`
 `Bash` · `Python` · `Git` · `Backup & Recovery`
 
+## Projekte
+
+- [homelab](https://github.com/tobias-peine/homelab) – VPS mit Docker, NPM, Ghost,
+  n8n, Paperless, SearXNG, Open WebUI/Ollama; 43 Commits, zwei dokumentierte
+  Restore-Tests (43 s/47 s), HSTS, SSH nur über Tailscale.
+- [kisium-tools](https://github.com/tobias-peine/kisium-tools) – Python-Werkzeuge
+  für Ghost-API, Cover-Generator und SMTP-Test; 6 Commits.
+
 ## Woran ich gerade bin
 
 - Google IT Automation with Python (Coursera)
-- Eigenes Homelab: Docker, Reverse Proxy, Backup mit getestetem Restore
+- Offsite-Backup: verschlüsselt auf dem Linux-Rechner, mit getestetem Restore
 - Blog-Skripte: Ghost-API, Cover-Generator, Deployment
 
 ## Kontakt
